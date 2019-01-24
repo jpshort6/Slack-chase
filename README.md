@@ -1,2 +1,2 @@
-# Scrath-chase
+# Scratch-chase
 My first Scratch creation.
